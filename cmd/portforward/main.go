@@ -7,7 +7,7 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/noxworld-dev/nat"
+	"github.com/opennox/nat"
 )
 
 var (

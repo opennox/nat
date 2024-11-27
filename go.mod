@@ -1,4 +1,4 @@
-module github.com/noxworld-dev/nat
+module github.com/opennox/nat
 
 go 1.21
 
